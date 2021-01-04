@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-obtendo">Obtendo e executando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionamento">Obtendo e executando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-link">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Bikcraft é um site que oferece serviços para montagem de bicicletas feitas a mão, com valores como: Qualidade em todo o processo de construção, Foco no cliente, Preservação da natureza e Sustentabilidade.
 
-## 🌐 Obtendo e executando o projeto
+## 🌐 Funcionamento
 
 ```bash
 # 1º Clone o repositório
