@@ -38,7 +38,7 @@ Bikcraft é um site que oferece serviços para montagem de bicicletas feitas a m
 
 ```bash
 # 1º Clone o repositório
-git clone https://github.com/
+git clone https://github.com/aldotheapache1/Bikcraft.git
 ```
 
 Após isso, é nescessária a utilização de uma ferramenta como o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para executar um servidor local do projeto.
